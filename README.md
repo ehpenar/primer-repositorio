@@ -3,8 +3,8 @@ es el primer repositorio para crear proyectos de python
 
 en esta demostracion se hará lo siguiente
 * crear un repositorio
- - sub item 1
- - sub item 2
+  - sub item 1
+  - sub item 2
 * editar el `readme.md`
 
 ## este es un subtitulo
